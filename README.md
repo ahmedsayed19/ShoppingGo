@@ -1,4 +1,4 @@
-#Initially,
+# Initially,
 the project is divided into two parts (Hardware, Software)
 The basic Functions that the project will contain is the following:
  Hardware: (Code reader, Weight sensor)
