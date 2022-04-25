@@ -1,14 +1,14 @@
 # Initially,
 the project is divided into two parts (Hardware, Software)
 The basic Functions that the project will contain is the following:
-- ##Hardware: _(Code reader, Weight sensor)_
+ ## Hardware: _(Code reader, Weight sensor)_
  The code reader will scan the product code placed on the cart then the 
  weight sensor check if the quantity of the placed product match with the 
  scanned product.
  The main factor in determining the number of products that have been 
  placed in the cart, through it, we will also keep the customer from stealing 
  any product without paying for it.
-- ## Software: _(Mobile Application)_
+ ## Software: _(Mobile Application)_
  Will be two mobile applications one for the customer mobile and the other 
  placed on the smart cart.
  Customer Mobile app features:
@@ -16,7 +16,7 @@ The basic Functions that the project will contain is the following:
  - The customer can pay through it without resorting to cash payment.
  - Bill history of the customer for customizing offers and 
  recommendations.
-- ## Tablet app:
+ ## Tablet app:
  - A purchase invoice will appear containing all the products that have 
  been placed in the shopping cart.
  - As soon as you locate a product in the shopping cart, 
