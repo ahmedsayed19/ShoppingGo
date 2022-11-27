@@ -2,3 +2,12 @@ env
 .env
 migrations
 static
+env
+env_old
+.env
+oldmigrations
+.gitignore
+index.html
+__pycache__
+__init__.py
+*.sqlite3
